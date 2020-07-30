@@ -105,6 +105,7 @@ sdlkjflajd
 [^2]:HyperText Markup Language 超文本标记语言
 
 ---
+好像居中不了
 <center>  <!--开始居中对齐-->
 
 ![GitHub set up](https://upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/550 "链接地址")
@@ -113,5 +114,12 @@ sdlkjflajd
 </center> <!--结束居中对齐-->
 
 
+---
+<font face="黑体">我是黑体字</font>
+<font face="微软雅黑">我是微软雅黑</font>
+<font face="STCAIYUN">我是华文彩云</font>
+<font color=#0099ff size=12 face="黑体">黑体</font>
+<font color=gray size=5>gray</font>
+<font color=#00ffff size=3>null</font>
 
 
