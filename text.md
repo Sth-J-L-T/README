@@ -47,9 +47,9 @@
    - 次列表
 
 ---
-小米 | 你好 | 偶哦
---|:--:|--:
+小米| 你好 | 偶哦
+:--|:--:|--:
 默认左边|这是中间|这是右边
-djf|dsf|dfd
+djf|dsf         -|dfd
 sdfds|sdf|sdf
 sfsd|sdfsd|sdf
