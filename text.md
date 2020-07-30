@@ -89,8 +89,13 @@ sdlkjflajd
 ---
 
 
-++ 下划线 ++
-== 背景高亮 ==
+我经常去的几个网站[Google][1]、[Leanote][2]。
+
+[1]:http://www.google.com 
+[2]:http://www.leanote.com
+
+---
+
 
 
 
