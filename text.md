@@ -95,6 +95,13 @@ sdlkjflajd
 [2]:http://www.leanote.com
 
 ---
+注：脚注自动被搬运到最后面，请到文章末尾查看，脚注后方的链接可以直接跳转回到加注的地方。
+ 
+使用 Markdown[^1]可以效率的书写文档, 直接转换成 HTML[^2]。
+
+[^1]:Markdown是一种纯文本标记语言
+
+[^2]:HyperText Markup Language 超文本标记语言
 
 
 
