@@ -77,5 +77,13 @@ sdlkjflajd
 我想换行  
 换行了吗？
  
+*在空的那行加个空格，然后回车*
 上面空行
+
+---
+<center>行中心对齐</center>
+<p align="left">行左对齐</p>
+<p align="right">行右对齐</p>
+
+
 
