@@ -95,6 +95,7 @@ sdlkjflajd
 [2]:http://www.leanote.com
 
 ---
+这个好像不行
 注：脚注自动被搬运到最后面，请到文章末尾查看，脚注后方的链接可以直接跳转回到加注的地方。
  
 使用 Markdown[^1] 可以效率的书写文档, 直接转换成 HTML[^2]。
@@ -102,6 +103,14 @@ sdlkjflajd
 
 [^1]:Markdown是一种纯文本标记语言
 [^2]:HyperText Markup Language 超文本标记语言
+
+---
+<center>  <!--开始居中对齐-->
+
+![GitHub set up](https://upload-images.jianshu.io/upload_images/6860761-fd2f51090a890873.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/550 "链接地址")
+
+格式: ![图片Alt](图片地址 "图片Title")
+</center> <!--结束居中对齐-->
 
 
 
